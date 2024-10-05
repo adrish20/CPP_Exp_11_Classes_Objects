@@ -53,3 +53,50 @@
         </li>
         <li>End</li>
     </ol>
+    <h2>Method definition</h2>
+    <ol>
+        <li>Start.</li>
+        <li>Define a class <strong>Student</strong>.
+            <ul>
+                <li>Inside the class, define a public method <strong>my_method()</strong>.</li>
+                <li>In the method, print the message: <em>"I'm studying in 2nd year"</em>.</li>
+            </ul>
+        </li>
+        <li>Create the <strong>main()</strong> function.</li>
+        <li>Inside the <strong>main()</strong> function:
+            <ul>
+                <li>Declare an object <strong>s1</strong> of class <strong>Student</strong>.</li>
+                <li>Call the method <strong>my_method()</strong> on the object <strong>s1</strong>.</li>
+            </ul>
+        </li>
+        <li>End.</li>
+    </ol>
+<h2>Volume of cuboid</h2>
+<ol>
+        <li>Start.</li>
+        <li>Define a class <strong>Area_cuboid</strong>.
+            <ul>
+                <li>Declare public variables: <strong>l</strong>, <strong>b</strong>, <strong>h</strong>, and <strong>volume</strong>.</li>
+                <li>Define the following methods:
+                    <ul>
+                        <li><strong>input()</strong>: Takes input for length, breadth, and height of the cuboid.</li>
+                        <li><strong>calculate()</strong>: Computes the volume of the cuboid using the formula <em>volume = l * b * h</em>.</li>
+                        <li><strong>output()</strong>: Prints the volume of the cuboid.</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Create the <strong>main()</strong> function.</li>
+        <li>Inside the <strong>main()</strong> function:
+            <ul>
+                <li>Declare an object <strong>C1</strong> of class <strong>Area_cuboid</strong>.</li>
+                <li>Call the method <strong>input()</strong> on the object <strong>C1</strong>.</li>
+                <li>Call the method <strong>calculate()</strong> on the object <strong>C1</strong>.</li>
+                <li>Call the method <strong>output()</strong> on the object <strong>C1</strong>.</li>
+            </ul>
+        </li>
+        <li>End.</li>
+    </ol>
+    <hr>
+    <h1>Conclusion</h1>
+    <p>In conclusion, through this experiment we have learnt about classes and objects in python which is the basics of object oriented programming.</p>
